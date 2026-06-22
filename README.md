@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Python+%7C+JavaScript+%7C+C++;Building+Modern+Web+Applications;Clean+Code+%7C+High+Performance;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+C%23+%7C+JavaScript;Building+High-Performance+Tools;Automation+%26+Game+Optimization;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm  mrshadoweg</h1>
-<h3 align="center">Professional Full-Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Salih (mrshadoweg)</h1>
+<h3 align="center">Software Developer & Tech Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about Web Development • Clean Code • Performance
+  🚀 Passionate about Automation, Game Optimization, and Clean Code.
 </p>
 
 ---
@@ -19,30 +19,36 @@
 - ⚙️ **Expertise:** Specializing in Desktop Automation, backend-frontend integration, and building custom high-performance tools.
 - 🎮 **Performance Driven:** Passionate about low-latency optimization, game performance, and mechanical keyboard technology (Snap Tap & Rapid Trigger).
 - 🚀 **Creator:** Developer of **SnapTap Pro** – bringing performance-grade features to everyday hardware.
-- 📚 Always pushing boundaries and learning new technologies. 
+- 📚 Always pushing boundaries and learning new technologies.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,godot,unity,unreal,blender,visualstudio,github" />
+  <img src="https://skillicons.dev/icons?i=py,cs,js,cpp,html,css,visualstudio,github,godot,unity,blender" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+- **SnapTap Pro:** An open-source tool designed to enhance keyboard input performance. (Check my pinned repositories!)
 
-## 🌍 Find Me Around The Web
+---
+
+## 🌍 Connect With Me
 <p align="center">
-  <a href="https://github.com/mrshadoweg"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://media.discordapp.net/attachments/1145701745595527288/1092072499832967219/IMG_9847.gif"/></a>
-  <a href="https://github.com/mrshadoweg"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://guns.lol/mrshadoweg">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mrshadoweg">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠🪄 Quote I Live By
-> *"Mastering the machine is the first step to mastering the self."*
+## 🧠 Quote I Live By
+> *"Elegance is the balance between complexity and performance."*
 
 ---
 
