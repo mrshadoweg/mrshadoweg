@@ -39,15 +39,14 @@
 <p align="center">
   <a href="https://guns.lol/mrshadoweg">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/">
+  </a> 
+  <a href="https://discord.com/users/1092072499832967219">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://github.com/mrshadoweg">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 🧠 Quote I Live By
