@@ -25,7 +25,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,godot,unity,unreal,blender,visualstudio,github" />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,godot,unity,unreal,blender,visualstudio,github" />
 </p>
 
 ---
