@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,js,cpp,html,css,visualstudio,github,godot,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,html,css,godot,unity,unreal,blender,visualstudio,github" />
 </p>
 
 ---
