@@ -14,12 +14,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Full-Stack Web Developer  
-- 🧠 Strong background in **Python, JavaScript,**  
-- 🌐 Specialized in **Web Applications & Dashboards**  
-- ⚙️ Experience with backend & frontend integration  
-- 🔐 Interested in performance & security best practices  
-- 📚 Always learning new technologies  
+- 💻 **Software Developer & Full-Stack Enthusiast.**
+- 🐍 **Languages:** Proficient in Python, C#, and JavaScript.
+- ⚙️ **Expertise:** Specializing in Desktop Automation, backend-frontend integration, and building custom high-performance tools.
+- 🎮 **Performance Driven:** Passionate about low-latency optimization, game performance, and mechanical keyboard technology (Snap Tap & Rapid Trigger).
+- 🚀 **Creator:** Developer of **SnapTap Pro** – bringing performance-grade features to everyday hardware.
+- 📚 Always pushing boundaries and learning new technologies. 
 
 ---
 
@@ -41,8 +41,8 @@
 
 ---
 
-## 🧠 Quote I Live By
-> *"Code is not just code, it's a mindset."*
+## 🧠🪄 Quote I Live By
+> *"Mastering the machine is the first step to mastering the self."*
 
 ---
 
